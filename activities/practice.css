@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://img.freepik.com/premium-vector/technology-landscape-high-tech-background-image-stateoftheart-communication-design_262356-436.jpg?w=996");
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+}
+form{  
+    border-width: thick;  
+    border-style: groove;
+    position: absolute;
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;   
+}
